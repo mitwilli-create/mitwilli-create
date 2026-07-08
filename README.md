@@ -10,7 +10,7 @@ For a decade I ran toward the hard live moments in network newsrooms: breaking-n
 
 Real, running systems. Clone them, read the prompt chains, see the design decisions:
 
-- **[comms-triage-agent](https://github.com/mitwilli-create/comms-triage-agent):** autonomous triage → revision → escalation for internal-comms intake across a large engineering organization (Principal/Distinguished/Fellow IC tier, ~1,000 engineers). Three-prompt architecture with conditional knowledge-base loading; ~160 operational hours/year recaptured. Apps Script + Gemini.
+- **[comms-triage-agent](https://github.com/mitwilli-create/comms-triage-agent):** autonomous triage → revision → escalation for internal-comms intake across a large engineering organization (Principal/Distinguished/Fellow IC tier, ~1,000 engineers). Three-prompt architecture with conditional knowledge-base loading; projected to recapture ~160 operational hours/year (est.). Apps Script + Gemini.
 - **[voice-os](https://github.com/mitwilli-create/voice-os):** six-axis voice scoring, dual-persona routing, and QA gates calibrated on a multi-million-word corpus. The "Voice DNA" approach: a curated corpus plus a banned-phrase checklist of rejected drafts teaches an agent risk tolerance and rhetorical pace. Built on Claude.
 - **[tax-verification-agent](https://github.com/mitwilli-create/tax-verification-agent):** citation-gated verification over a four-layer knowledge base. Caught a real multi-state income-tax error that filing software defended as correct.
 
